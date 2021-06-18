@@ -1,1 +1,1 @@
-# -grunt-remove-multiple-empty-lines
+# grunt-remove-multiple-empty-lines

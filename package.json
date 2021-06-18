@@ -1,0 +1,19 @@
+{
+  "name": "grunt-remove-multiple-empty-lines",
+  "version": "1.0.0",
+  "description": "Very simple and lightweight cleaner that just removes multiple empty lines from any kind of files",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasklering/grunt-remove-multiple-empty-lines.git"
+  },
+  "author": "jonasklering",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasklering/grunt-remove-multiple-empty-lines/issues"
+  },
+  "homepage": "https://github.com/jonasklering/grunt-remove-multiple-empty-lines#readme"
+}
